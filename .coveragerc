@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = stories
+omit = stories/tests/*,stories/openstack/*
+
+[report]
+ignore-errors = True
